@@ -2,6 +2,8 @@
 
 - 프로젝트: MarketHero
 - 기간: 2020.08 ~ 2020.10
+- 인원: 4명
+- 담당: 주문 내역, 주문 상세내역
 - 환경: Spring FrameWork, MySQL, Tomcat9
 - 기술: Java, JSTL, JavaScript, Spring security, Ajax
 - 도구: Eclips(sts), HeidiSQL
